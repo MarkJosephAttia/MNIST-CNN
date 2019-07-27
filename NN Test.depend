@@ -1,0 +1,840 @@
+# depslib dependency file v1.0
+1555259754 source:/home/mark/Desktop/NN Test/Convolution.cpp
+	"Convolution.h"
+	"matrix.h"
+	<cmath>
+
+1556720199 
+
+1554444998 /home/mark/Desktop/NN Test/Convolution.h
+	"Pooling.h"
+	"matrix.h"
+
+1554445000 /home/mark/Desktop/NN Test/Pooling.h
+	"matrix.h"
+	"Convolution.h"
+	"layer.h"
+
+1555077513 /home/mark/Desktop/NN Test/matrix.h
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+
+1555077518 /home/mark/Desktop/NN Test/layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1556361760 "
+
+1555077522 /home/mark/Desktop/NN Test/trainSet.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	<fstream>
+
+1555077525 /home/mark/Desktop/NN Test/trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1556111938 h"
+
+1555077529 /home/mark/Desktop/NN Test/net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"Convolution.h"
+	"Pooling.h"
+
+1554685439 source:/home/mark/Desktop/NN Test/layer.cpp
+	"layer.h"
+
+1555260729 source:/home/mark/Desktop/NN Test/main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+	"net.h"
+	"trainer.h"
+	"Convolution.h"
+	"Pooling.h"
+	<thread>
+	<unistd.h>
+
+1554850699 source:/home/mark/Desktop/NN Test/matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1554686304 source:/home/mark/Desktop/NN Test/net.cpp
+	"net.h"
+
+1554445002 source:/home/mark/Desktop/NN Test/Pooling.cpp
+	"Pooling.h"
+
+1555115638 source:/home/mark/Desktop/NN Test/trainer.cpp
+	"trainer.h"
+
+1554648600 source:/home/mark/Desktop/NN Test/trainSet.cpp
+	"trainSet.h"
+
+1555971708 source:/home/mark/Desktop/NN Test 95/Convolution.cpp
+	"Convolution.h"
+	"matrix.h"
+	<cmath>
+
+1554444998 /home/mark/Desktop/NN Test 95/Convolution.h
+	"Pooling.h"
+	"matrix.h"
+
+1554445000 /home/mark/Desktop/NN Test 95/Pooling.h
+	"matrix.h"
+	"Convolution.h"
+	"layer.h"
+
+1556049741 /home/mark/Desktop/NN Test 95/matrix.h
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	<fstream>
+	<string>
+
+1555077518 /home/mark/Desktop/NN Test 95/layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1555077522 /home/mark/Desktop/NN Test 95/trainSet.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	<fstream>
+
+1555077525 /home/mark/Desktop/NN Test 95/trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1555077529 /home/mark/Desktop/NN Test 95/net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"Convolution.h"
+	"Pooling.h"
+
+1554685439 source:/home/mark/Desktop/NN Test 95/layer.cpp
+	"layer.h"
+
+1556050063 source:/home/mark/Desktop/NN Test 95/matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1554686304 source:/home/mark/Desktop/NN Test 95/net.cpp
+	"net.h"
+
+1554445002 source:/home/mark/Desktop/NN Test 95/Pooling.cpp
+	"Pooling.h"
+
+1555115638 source:/home/mark/Desktop/NN Test 95/trainer.cpp
+	"trainer.h"
+
+1554648600 source:/home/mark/Desktop/NN Test 95/trainSet.cpp
+	"trainSet.h"
+
+1556112171 source:/home/mark/Desktop/NN Test 95/main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+	"net.h"
+	"trainer.h"
+	"Convolution.h"
+	"Pooling.h"
+	<thread>
+	<unistd.h>
+
+1555964508 source:c:\users\mark\desktop\95 isa\convolution.cpp
+	"Convolution.h"
+	"matrix.h"
+	<cmath>
+
+1554437798 c:\users\mark\desktop\95 isa\convolution.h
+	"Pooling.h"
+	"matrix.h"
+
+1554437800 c:\users\mark\desktop\95 isa\pooling.h
+	"matrix.h"
+	"Convolution.h"
+	"layer.h"
+
+1556122948 c:\users\mark\desktop\95 isa\matrix.h
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	<fstream>
+	<string>
+
+1555070318 c:\users\mark\desktop\95 isa\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1555070322 c:\users\mark\desktop\95 isa\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	<fstream>
+
+1555070324 c:\users\mark\desktop\95 isa\trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1555070328 c:\users\mark\desktop\95 isa\net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"Convolution.h"
+	"Pooling.h"
+
+1554678238 source:c:\users\mark\desktop\95 isa\layer.cpp
+	"layer.h"
+
+1554679104 source:c:\users\mark\desktop\95 isa\net.cpp
+	"net.h"
+
+1554437802 source:c:\users\mark\desktop\95 isa\pooling.cpp
+	"Pooling.h"
+
+1554641400 source:c:\users\mark\desktop\95 isa\trainset.cpp
+	"trainSet.h"
+
+1556122923 source:c:\users\mark\desktop\95 isa\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1556117472 source:c:\users\mark\desktop\95 isa\trainer.cpp
+	"trainer.h"
+
+1556123143 source:c:\users\mark\desktop\95 isa\convolutionn.cpp
+	"ConvolutionN.h"
+	<iostream>
+	"matrix.h"
+	<cmath>
+
+1556123153 c:\users\mark\desktop\95 isa\convolutionn.h
+	"trainSet.h"
+
+1556104726 source:e:\electric engineering fourth year\project\second term\new folder version bp\new2 new version\new2\convolution new\doctor convolution\95 isa\convolution.cpp
+	"Convolution.h"
+	"matrix.h"
+	<cmath>
+
+1556104726 e:\electric engineering fourth year\project\second term\new folder version bp\new2 new version\new2\convolution new\doctor convolution\95 isa\convolution.h
+	"Pooling.h"
+	"matrix.h"
+
+1556104738 e:\electric engineering fourth year\project\second term\new folder version bp\new2 new version\new2\convolution new\doctor convolution\95 isa\pooling.h
+	"matrix.h"
+	"Convolution.h"
+	"layer.h"
+
+1555854362 e:\electric engineering fourth year\project\second term\new folder version bp\new2 new version\new2\convolution new\doctor convolution\95 isa\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1556353675 e:\electric engineering fourth year\project\second term\new folder version bp\new2 new version\new2\convolution new\doctor convolution\95 isa\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1556104738 e:\electric engineering fourth year\project\second term\new folder version bp\new2 new version\new2\convolution new\doctor convolution\95 isa\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	<fstream>
+
+1556354558 e:\electric engineering fourth year\project\second term\new folder version bp\new2 new version\new2\convolution new\doctor convolution\95 isa\trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1556354065 e:\electric engineering fourth year\project\second term\new folder version bp\new2 new version\new2\convolution new\doctor convolution\95 isa\net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+
+1556353578 source:e:\electric engineering fourth year\project\second term\new folder version bp\new2 new version\new2\convolution new\doctor convolution\95 isa\convolutionn.cpp
+	"ConvolutionN.h"
+	<iostream>
+	"matrix.h"
+	<cmath>
+
+1556353636 e:\electric engineering fourth year\project\second term\new folder version bp\new2 new version\new2\convolution new\doctor convolution\95 isa\convolutionn.h
+	"trainSet.h"
+
+1556357998 source:e:\electric engineering fourth year\project\second term\new folder version bp\new2 new version\new2\convolution new\doctor convolution\95 isa\layer.cpp
+	"layer.h"
+
+1556358168 source:e:\electric engineering fourth year\project\second term\new folder version bp\new2 new version\new2\convolution new\doctor convolution\95 isa\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+	"net.h"
+	"trainer.h"
+	"ConvolutionN.h"
+	<thread>
+	<unistd.h>
+
+1555854382 source:e:\electric engineering fourth year\project\second term\new folder version bp\new2 new version\new2\convolution new\doctor convolution\95 isa\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1556358379 source:e:\electric engineering fourth year\project\second term\new folder version bp\new2 new version\new2\convolution new\doctor convolution\95 isa\net.cpp
+	"net.h"
+
+1556104738 source:e:\electric engineering fourth year\project\second term\new folder version bp\new2 new version\new2\convolution new\doctor convolution\95 isa\pooling.cpp
+	"Pooling.h"
+
+1556354558 source:e:\electric engineering fourth year\project\second term\new folder version bp\new2 new version\new2\convolution new\doctor convolution\95 isa\trainer.cpp
+	"trainer.h"
+
+1556104738 source:e:\electric engineering fourth year\project\second term\new folder version bp\new2 new version\new2\convolution new\doctor convolution\95 isa\trainset.cpp
+	"trainSet.h"
+
+1556353578 source:c:\users\mark\desktop\convolution new\final v1.0\convolutionn.cpp
+	"ConvolutionN.h"
+	<iostream>
+	"matrix.h"
+	<cmath>
+
+1556353636 c:\users\mark\desktop\convolution new\final v1.0\convolutionn.h
+	"trainSet.h"
+
+1556104738 c:\users\mark\desktop\convolution new\final v1.0\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	<fstream>
+
+1555854362 c:\users\mark\desktop\convolution new\final v1.0\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1556717551 c:\users\mark\desktop\convolution new\final v1.0\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1556354558 c:\users\mark\desktop\convolution new\final v1.0\trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1556717478 c:\users\mark\desktop\convolution new\final v1.0\net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+
+1555854382 source:c:\users\mark\desktop\convolution new\final v1.0\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1556354558 source:c:\users\mark\desktop\convolution new\final v1.0\trainer.cpp
+	"trainer.h"
+
+1556104738 source:c:\users\mark\desktop\convolution new\final v1.0\trainset.cpp
+	"trainSet.h"
+
+1556717588 source:c:\users\mark\desktop\convolution new\final v1.0\net.cpp
+	"net.h"
+
+1556717874 source:c:\users\mark\desktop\convolution new\final v1.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+	"net.h"
+	"trainer.h"
+	"ConvolutionN.h"
+	<thread>
+	<unistd.h>
+
+1556720209 source:/home/mark/Desktop/Final V1.0/ConvolutionN.cpp
+	"ConvolutionN.h"
+	<iostream>
+	"matrix.h"
+	<cmath>
+
+1556720199 /home/mark/Desktop/Final V1.0/ConvolutionN.h
+	"trainSet.h"
+	<fstream>
+
+1556111938 /home/mark/Desktop/Final V1.0/trainSet.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	<fstream>
+
+1556720214 /home/mark/Desktop/Final V1.0/matrix.h
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+
+1556724752 /home/mark/Desktop/Final V1.0/layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1556361760 /home/mark/Desktop/Final V1.0/trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1556724680 /home/mark/Desktop/Final V1.0/net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+
+1556725094 source:/home/mark/Desktop/Final V1.0/layer.cpp
+	"layer.h"
+
+1557055394 source:/home/mark/Desktop/Final V1.0/main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+	"net.h"
+	"trainer.h"
+	"ConvolutionN.h"
+	<thread>
+	<unistd.h>
+
+1555861582 source:/home/mark/Desktop/Final V1.0/matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1556724790 source:/home/mark/Desktop/Final V1.0/net.cpp
+	"net.h"
+
+1556361760 source:/home/mark/Desktop/Final V1.0/trainer.cpp
+	"trainer.h"
+
+1556111938 source:/home/mark/Desktop/Final V1.0/trainSet.cpp
+	"trainSet.h"
+
+1556725094 source:c:\users\mark\desktop\final v1.0\layer.cpp
+	"layer.h"
+
+1556724752 c:\users\mark\desktop\final v1.0\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1556720214 c:\users\mark\desktop\final v1.0\matrix.h
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+
+1556111938 c:\users\mark\desktop\final v1.0\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	<fstream>
+
+1556361760 c:\users\mark\desktop\final v1.0\trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1556724680 c:\users\mark\desktop\final v1.0\net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+
+1555861582 source:c:\users\mark\desktop\final v1.0\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1556724790 source:c:\users\mark\desktop\final v1.0\net.cpp
+	"net.h"
+
+1556361760 source:c:\users\mark\desktop\final v1.0\trainer.cpp
+	"trainer.h"
+
+1556111938 source:c:\users\mark\desktop\final v1.0\trainset.cpp
+	"trainSet.h"
+
+1557062381 source:c:\users\mark\desktop\final v1.0\convolutionn.cpp
+	"ConvolutionN.h"
+	<iostream>
+	"matrix.h"
+	<cmath>
+
+1556720199 c:\users\mark\desktop\final v1.0\convolutionn.h
+	"trainSet.h"
+	<fstream>
+
+1557062371 source:c:\users\mark\desktop\final v1.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+	"net.h"
+	"trainer.h"
+	"ConvolutionN.h"
+	<thread>
+	<unistd.h>
+
+1558269028 source:/home/mark/Downloads/2nd Final V1.0-20190508T131735Z-001/2nd Final V1.0/ConvolutionN.cpp
+	"ConvolutionN.h"
+	<iostream>
+	"matrix.h"
+	<cmath>
+
+1557030226 /home/mark/Downloads/2nd Final V1.0-20190508T131735Z-001/2nd Final V1.0/ConvolutionN.h
+	"trainSet.h"
+	<fstream>
+
+1557030252 /home/mark/Downloads/2nd Final V1.0-20190508T131735Z-001/2nd Final V1.0/trainSet.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	<fstream>
+
+1557030228 /home/mark/Downloads/2nd Final V1.0-20190508T131735Z-001/2nd Final V1.0/matrix.h
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+
+1557030228 /home/mark/Downloads/2nd Final V1.0-20190508T131735Z-001/2nd Final V1.0/layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1557030242 /home/mark/Downloads/2nd Final V1.0-20190508T131735Z-001/2nd Final V1.0/trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1557030240 /home/mark/Downloads/2nd Final V1.0-20190508T131735Z-001/2nd Final V1.0/net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+
+1557030228 source:/home/mark/Downloads/2nd Final V1.0-20190508T131735Z-001/2nd Final V1.0/layer.cpp
+	"layer.h"
+
+1558290655 source:/home/mark/Downloads/2nd Final V1.0-20190508T131735Z-001/2nd Final V1.0/main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+	"net.h"
+	"trainer.h"
+	"ConvolutionN.h"
+	<thread>
+	<unistd.h>
+
+1557030228 source:/home/mark/Downloads/2nd Final V1.0-20190508T131735Z-001/2nd Final V1.0/matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1557030228 source:/home/mark/Downloads/2nd Final V1.0-20190508T131735Z-001/2nd Final V1.0/net.cpp
+	"net.h"
+
+1558190524 source:/home/mark/Downloads/2nd Final V1.0-20190508T131735Z-001/2nd Final V1.0/trainer.cpp
+	"trainer.h"
+
+1557030250 source:/home/mark/Downloads/2nd Final V1.0-20190508T131735Z-001/2nd Final V1.0/trainSet.cpp
+	"trainSet.h"
+
+1558275552 source:d:\projects\ta5arog projects\mark final nn\convolutionn.cpp
+	"ConvolutionN.h"
+	<iostream>
+	"matrix.h"
+	<cmath>
+
+1558275552 d:\projects\ta5arog projects\mark final nn\convolutionn.h
+	"trainSet.h"
+	<fstream>
+
+1558275556 d:\projects\ta5arog projects\mark final nn\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	<fstream>
+
+1558275550 d:\projects\ta5arog projects\mark final nn\matrix.h
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+
+1558275552 d:\projects\ta5arog projects\mark final nn\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1558275556 d:\projects\ta5arog projects\mark final nn\trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1558275554 d:\projects\ta5arog projects\mark final nn\net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+
+1558275552 source:d:\projects\ta5arog projects\mark final nn\layer.cpp
+	"layer.h"
+
+1558275552 source:d:\projects\ta5arog projects\mark final nn\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+	"net.h"
+	"trainer.h"
+	"ConvolutionN.h"
+	<thread>
+	<unistd.h>
+
+1558275550 source:d:\projects\ta5arog projects\mark final nn\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1558275554 source:d:\projects\ta5arog projects\mark final nn\net.cpp
+	"net.h"
+
+1558275556 source:d:\projects\ta5arog projects\mark final nn\trainer.cpp
+	"trainer.h"
+
+1558275556 source:d:\projects\ta5arog projects\mark final nn\trainset.cpp
+	"trainSet.h"
+
